@@ -1,9 +1,9 @@
-package com.vaannila.web;
+package com.kishorekumar.web;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.SimpleFormController;
 
-import com.vaannila.domain.User;
+import com.vaannila.domain.kishore;
 import com.vaannila.service.UserService;
 
 @SuppressWarnings("deprecation")
@@ -13,7 +13,7 @@ public class UserController extends SimpleFormController {
 
 	public UserController()	{
 		setCommandClass(User.class);
-		setCommandName("user");
+		setCommandName("kishore");
 	}
 	
 	public void setUserService(UserService userService) {
