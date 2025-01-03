@@ -58,7 +58,7 @@
  <h1> Test!  Test!  Test!  Test!  Test! </h1>
  <h1> ************************************ </h1>
 
-<table width="30%" bgcolor="brown" align="center" border=3>
+<table width="50%" bgcolor="green" align="center" border=4>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
